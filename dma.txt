@@ -1,0 +1,5 @@
+#05-17-2020
+to view the DMA files
+
+Type:
+ cat /proc/dma
