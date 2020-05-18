@@ -1,0 +1,6 @@
+#05-17-2020
+how to look into the interrupt file?
+
+Type:
+
+ cat /proc/interrupts
